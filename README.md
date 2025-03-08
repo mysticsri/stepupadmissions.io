@@ -1,21 +1,36 @@
-# StepUp Admissions
+# StepUp Admissions  
 
-StepUp Admissions is a professional yet cartoony-styled website for tutoring and admissions guidance.
+Welcome to **StepUp Admissions**, where we help students achieve their academic goals through expert tutoring and admissions guidance.  
 
-## Features
-- **Home Page:** Introduction with an interactive levels diagram.
-- **About Page:** Team bios and achievements.
-- **Services Page:** Subscription-based tutoring services.
-- **Contact Page:** Email, phone number, and location.
+## 🏠 Home  
+An introduction to our organization with a visual representation of different levels of achievement.  
 
-## Tech Stack
-- **Frontend:** React, TailwindCSS
-- **Routing:** React Router
-- **Deployment:** GitHub Pages or Vercel
+### Levels Representation:  
+- 🎨 **Different Colors:** Each level is visually distinct.  
+- 🏆 **Rewards:** Progress unlocks benefits.  
 
-## Getting Started
+## 👥 About Us  
+Meet our team!  
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/stepup-admissions.git
-cd stepup-admissions
+| Name  | Education  | Achievements  | College Journey  |
+|-------|-----------|--------------|-----------------|
+| Alice | Harvard   | Top 5% in class | Full scholarship |
+| Bob   | Stanford  | Math Olympiad winner | Research grant recipient |
+
+## 🎯 Services  
+We offer **subscription-based tutoring services** to help students excel.  
+
+### 📚 Available Plans:  
+- **Basic Plan**: Weekly tutoring sessions.  
+- **Premium Plan**: Daily tutoring + personalized mentoring.  
+- **Elite Plan**: Full college application guidance.  
+
+## 📞 Contact Us  
+For inquiries, reach out via:  
+- 📧 **Email:** contact@stepupadmissions.com  
+- 📞 **Phone:** (123) 456-7890  
+- 📍 **Location:** 123 Education St., Knowledge City  
+
+---
+
+**Stay motivated and keep stepping up! 🚀**  
